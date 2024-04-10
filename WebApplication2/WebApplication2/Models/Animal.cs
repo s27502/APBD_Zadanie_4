@@ -2,9 +2,9 @@
 
 public class Animal
 {
-    public int id { get; set; }
-    public string name { get; set; }
+    public int Id { get; set; }
+    public string Name { get; set; }
     public string Type { get; set; }
-    public double mass { get; set; }
+    public double Mass { get; set; }
     public string furColor { get; set; }
 }
